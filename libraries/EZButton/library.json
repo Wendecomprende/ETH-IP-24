@@ -1,0 +1,37 @@
+{
+    "name": "EZButton",
+    "version": "2.4.0",
+    "description": "Transform raw button/touch inputs into events easily. Subscibe to Pressed/Released/Hold/HoldReleased events of as many buttons as you want. Customize time thresholds and debouncing. Works with any button read method.",
+    "keywords": 
+    [
+      "Button",
+      "Touch",
+      "Key",
+      "Event",
+      "Hold",
+      "Press",
+      "Release",
+      "HoldRelease",
+      "Debouncing"
+    ],
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/IPdotSetAF/EZButton.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Mohammad Mahdi Nazari",
+        "email": "ipdotsetaf@gmail.com",
+        "url": "https://github.com/IPdotSetAF",
+        "maintainer": true
+      }
+    ],
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/IPdotSetAF/EZButton",
+    "dependencies": {
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }

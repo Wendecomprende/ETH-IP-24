@@ -67,7 +67,7 @@ void setup(){
   analogWrite(3, 0);
   delay(800);
   sensorKalibrieren(); // Kalibriert die Sensoren durch mehrfache Messungen, um die Genauigkeit zu verbessern.
-  delay(5000);
+  delay(4000);
 }
 
 // Die Loop-Funktion wird kontinuierlich ausgeführt, solange der Roboter eingeschaltet ist. 
