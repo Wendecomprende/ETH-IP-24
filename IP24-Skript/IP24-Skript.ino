@@ -109,7 +109,7 @@ void loop()
             case 1:
               hebel.writeMicroseconds(1400); // stellt hebel wieder auf 90 Grad
               turnleft();
-              delay(2000);
+              delay(2500);
               followingPIDBACK();
               followingPID();
               followingPIDBACK();
